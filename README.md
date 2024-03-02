@@ -16,3 +16,4 @@ Nel file questions.csv ci sono le domande, in answers.csv le risposte. Vanno usa
 
 Il modo migliore per aggiungere delle domande o delle risposte è quello di fare una aggiunta attraverso github, alternativamente mi possono essere inviate per email.
 
+Chiunque può partecipare.
